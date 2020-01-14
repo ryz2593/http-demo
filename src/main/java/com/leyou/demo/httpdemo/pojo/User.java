@@ -9,7 +9,7 @@ import java.util.Date;
  * @author ryz2593
  * @date 2020/1/13 15:47
  * <p>
- * 需要设置表名，以及主键
+ * 
  */
 @Data
 public class User implements Serializable {
